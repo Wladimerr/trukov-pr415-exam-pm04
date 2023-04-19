@@ -1,0 +1,15 @@
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.AssemblyReference.cache
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\MainWindow.g.cs
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\App.g.cs
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp_MarkupCompile.cache
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp_MarkupCompile.lref
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\MainWindow.baml
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.g.resources
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.Properties.Resources.resources
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.GenerateResource.cache
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+G:\ExamPM04\TrukovExamApp\trukov-pr415-exam-pm04\ExamApp\ExamApp\obj\Debug\ExamApp.pdb

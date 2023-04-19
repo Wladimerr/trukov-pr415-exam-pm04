@@ -1,0 +1,34 @@
+﻿<Window x:Class="ExamApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MinWidth="650">
+    <Grid>
+        <StackPanel Width="600" Margin="10 20">
+            <StackPanel Margin="0 20">
+                <TextBlock Text="Автор"/>
+                <StackPanel>
+                    <TextBox Name="tbAuthor" TextChanged="tbAuthor_TextChanged"/>
+                    <TextBlock Name="tblAuthorMessage" Foreground="Red" FontWeight="Black" Text="Поле Автор должно содержать от 20 до 75 символов"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="0 20">
+                <TextBlock Text="Название"/>
+                <StackPanel>
+                    <TextBox Name="tbName" TextChanged="tbName_TextChanged"/>
+                    <TextBlock Name="tblNameMessage" Foreground="Red" FontWeight="Black" Text="Поле Название должно содержать от 10 до 100 символов"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="0 20">
+                <TextBlock Text="Год издания"/>
+                <StackPanel>
+                    <TextBox Name="tbYear" TextChanged="tbYear_TextChanged"/>
+                    <TextBlock Name="tblYearMessage" Foreground="Red" FontWeight="Black" Text="Поле Год издания должно содержать четырёхразрядные положительные числа"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
